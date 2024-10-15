@@ -1,5 +1,4 @@
 # CIOCR
-# Code with an US breast lesion video from the testset upon our paper (Under Review).
 # Note: Due to the ethical review and authorization processes within the relevant hospital and organization, the dataset and code are currently for demonstration purposes only.
 # The complete dataset and the code will be publicly available after the paper is published.
 # Please refer to https://github.com/sun4176/CIOCR for more details.
